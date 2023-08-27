@@ -1,0 +1,15 @@
+D:\Projects\OzonTechContest\bin\Debug\net7.0\OzonTechContest.exe
+D:\Projects\OzonTechContest\bin\Debug\net7.0\OzonTechContest.deps.json
+D:\Projects\OzonTechContest\bin\Debug\net7.0\OzonTechContest.runtimeconfig.json
+D:\Projects\OzonTechContest\bin\Debug\net7.0\OzonTechContest.dll
+D:\Projects\OzonTechContest\bin\Debug\net7.0\OzonTechContest.pdb
+D:\Projects\OzonTechContest\obj\Debug\net7.0\OzonTechContest.csproj.AssemblyReference.cache
+D:\Projects\OzonTechContest\obj\Debug\net7.0\OzonTechContest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\OzonTechContest\obj\Debug\net7.0\OzonTechContest.AssemblyInfoInputs.cache
+D:\Projects\OzonTechContest\obj\Debug\net7.0\OzonTechContest.AssemblyInfo.cs
+D:\Projects\OzonTechContest\obj\Debug\net7.0\OzonTechContest.csproj.CoreCompileInputs.cache
+D:\Projects\OzonTechContest\obj\Debug\net7.0\OzonTechContest.dll
+D:\Projects\OzonTechContest\obj\Debug\net7.0\refint\OzonTechContest.dll
+D:\Projects\OzonTechContest\obj\Debug\net7.0\OzonTechContest.pdb
+D:\Projects\OzonTechContest\obj\Debug\net7.0\OzonTechContest.genruntimeconfig.cache
+D:\Projects\OzonTechContest\obj\Debug\net7.0\ref\OzonTechContest.dll
